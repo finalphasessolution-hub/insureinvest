@@ -1,0 +1,6 @@
+2026/09/24-12:14:58.663 3ac0 Reusing MANIFEST D:\MY WEB SITE 2\whatsapp_session_owner\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/24-12:14:58.670 3ac0 Recovering log #4
+2026/09/24-12:14:58.672 3ac0 Reusing old log D:\MY WEB SITE 2\whatsapp_session_owner\session\Default\Local Storage\leveldb/000004.log 
+2026/09/24-12:35:06.478 3ac0 Level-0 table #8: started
+2026/09/24-12:35:06.495 3ac0 Level-0 table #8: 14100 bytes OK
+2026/09/24-12:35:06.504 3ac0 Delete type=0 #4
