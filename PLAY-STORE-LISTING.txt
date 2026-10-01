@@ -1,0 +1,89 @@
+========================================
+INSUREINVEST - PLAY STORE LISTING
+========================================
+
+APP NAME (30 chars):
+InsureInvest - Insurance Guide
+
+SHORT DESCRIPTION (80 chars):
+Smart Insurance & Investment calculator, plans compare & secure future guide
+
+FULL DESCRIPTION (4000 chars):
+InsureInvest - Your Smart Insurance & Investment Partner
+
+Secure your family's future with InsureInvest. The all-in-one app for Insurance planning, Investment calculation, and financial guidance.
+
+🔥 KEY FEATURES:
+
+✓ Insurance Calculator - Calculate premium for Life, Health, Term Insurance
+✓ Investment Planner - SIP, Mutual Funds, FD, RD returns calculator
+✓ Plan Comparison - Compare LIC, Term, Health insurance plans side-by-side
+✓ Secure & Private - No data selling, 100% encrypted
+✓ Offline Mode - Works without internet for calculators
+✓ Easy to Use - Made for India, Hindi & English support
+✓ Expert Guidance - Tips to choose best insurance & investment
+
+💰 WHY INSUREINVEST?
+
+- Save Money: Compare plans and find lowest premium
+- Secure Future: Plan for child's education, retirement
+- Quick Calculations: Instant premium and returns
+- Trusted Info: Updated 2026 insurance rules
+
+📱 PERFECT FOR:
+
+- First time insurance buyers
+- Families planning for future
+- Investors looking for best returns
+- Agents and advisors
+
+We do NOT sell insurance. We provide information and calculators to help you make informed decisions. Always consult licensed advisor for final purchase.
+
+Download now and secure your future!
+
+Keywords: insurance, investment, LIC, term insurance, health insurance, SIP calculator, financial planning, India insurance
+
+Support: support@insureinvest.app
+
+========================================
+SCREENSHOTS REQUIRED (Play Console):
+
+You need 2-8 screenshots of phone (1080x1920 or 1080x2340)
+
+Screenshot 1: Home Screen - "InsureInvest - Secure Your Future"
+Screenshot 2: Insurance Calculator - "Calculate Premium in 10 Sec"
+Screenshot 3: Investment / SIP Calculator - "See Your Money Grow"
+Screenshot 4: Plan Comparison - "Compare & Save Money"
+Screenshot 5: Features / Security - "100% Safe & Private"
+
+I can create these screenshot mockups if you give me 2-3 actual app screens.
+
+========================================
+ICON & GRAPHICS:
+
+- App Icon: 512x512 PNG (32-bit, no transparency)
+- Feature Graphic: 1024x500 JPG/PNG - Banner for Play Store top
+- For Feature Graphic text: "InsureInvest - Smart Insurance & Investment"
+
+========================================
+PLAY CONSOLE CATEGORIES:
+
+- Category: Finance
+- Tags: Finance, Insurance, Investment
+- Content Rating: Everyone
+- Target Audience: 18+
+- Privacy Policy URL: https://insureinvest.app/privacy-policy 
+  (You can host the privacy-policy.html file I gave you on your Tomcat: http://YOUR-IP:8080/privacy-policy.html and use that link)
+
+========================================
+WHAT TO UPLOAD IN PLAY CONSOLE:
+
+1. App Bundle: D:\MY WEB SITE 2\InsureInvest-PLAYSTORE.aab
+2. App Icon 512x512
+3. Screenshots (2 minimum)
+4. Feature Graphic 1024x500
+5. Privacy Policy Link
+6. Short + Full Description (from above)
+7. Contact Email
+
+========================================

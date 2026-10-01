@@ -1,3 +1,11 @@
-node_modules/www/ 
-android/app/build/ 
-android/.gradle/ 
+﻿[STRIPPED 67 bytes]
+.tmp/
+dist/
+.env
+*.log
+3000
+8081
+Found
+Moved
+com1:
+com1
